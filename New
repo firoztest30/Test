@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="HB" tvg-logo="https://i.postimg.cc/Qth0pjV0/FB-IMG-1783491930736.jpg",FERDOUS.NET
 http://103.151.60.162:2121/play/a0f8/index.m3u8
+
+#EXTINF:-1 group-title="HB" tvg-logo="https://i.postimg.cc/cCPX1BsV/images.jpg",FUSSBALL TV 3
+http://me.mdmfista.com:80/play/live.php?mac=00%3A1A%3A79%3AA9%3ABF%3A41&stream=1745094&extension=ts&play_token=bKDK2eYfDg
