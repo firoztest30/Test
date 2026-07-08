@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="HB" tvg-logo="https://i.postimg.cc/Qth0pjV0/FB-IMG-1783491930736.jpg",FERDOUS.NET
 http://103.151.60.162:2121/play/a0f8/index.m3u8
+
+#EXTINF:-1 group-title="HB" tvg-logo="https://i.postimg.cc/Qth0pjV0/FB-IMG-1783491930736.jpg",Btv
+http://172.19.17.34/live/ontest1/ontest1/1.ts
