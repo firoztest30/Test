@@ -53,3 +53,10 @@ https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/deshebideshe-1.jpg?x71442",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.postimg.cc/KjQktWmb/FB-IMG-1783617506775.jpg",Channel S
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://timetvplus.com/uploads/tv_image/movie-bangla-tv.jpg",Movie Bangla Tv
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.postimg.cc/3wSnKts2/FB-IMG-1783618096719.jpg",Ayna
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/G-Series_Logo.png",G Series
