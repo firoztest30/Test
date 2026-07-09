@@ -3,5 +3,9 @@
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/d/d3/%E0%A6%AA%E0%A6%BF%E0%A6%B8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png",Peace Tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8?sid=IkC9VZZjvEydg_BjzxJ6qg
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png&w=3840&q=75",Btv World Hd
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png&w=3840&q=75",Btv World
 http://103.151.60.162:2121/play/a013/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://images.seeklogo.com/logo-png/53/2/somoy-tv-logo-png_seeklogo-536972.png",Somoy Tv
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
+#EXTINF:-1 group-title="BNAGLA" tvg-logo="https://cdn.ekattorbd.com/contents/themes/public/style/images/logo-footer.png",Ekattor Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
