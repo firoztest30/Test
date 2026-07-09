@@ -19,3 +19,19 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Star_News_Bangladesh_Old_Logo_Horizontal.svg/revision/latest/scale-to-width-down/350?cb=20260202200847",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png",News 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://logotyp.us/file/dbc-news.svg",DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.pinimg.com/280x280_RS/9b/07/f4/9b07f486ab893ce8d8aa28dfbc1c2edc.jpg",Ekhon tv
+https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://brandeps.com/logo-download/A/ATN-Bangla-logo-vector-01.svg",ATN Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://images.seeklogo.com/logo-png/39/2/ntv-channel-logo-png_seeklogo-396286.png",Ntv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/250px-Rtv_bangladesh.svg.png",Rtv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://images.seeklogo.com/logo-png/51/3/bangla-vision-tv-channel-logo-png_seeklogo-513051.png",Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://images.seeklogo.com/logo-png/17/1/boishakhi-tv-logo-png_seeklogo-175644.png",Boishakhi Tv
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
