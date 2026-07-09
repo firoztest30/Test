@@ -11,3 +11,11 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/04/Channel1Bangladesh-1.png?x95285", Channel One
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Channel24logo.svg",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/independent-tv-black.png",Independence
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://play-lh.googleusercontent.com/HB_K5ZUcWFfYBcST4buqJ_Oq3g16g4F8jbWLV3jrytGLcWks9ld0R_8ccdxDS_9gqPyP=w240-h480-rw",Jamuna Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/Star_News_Bangladesh_Old_Logo_Horizontal.svg/revision/latest/scale-to-width-down/350?cb=20260202200847",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
