@@ -9,3 +9,5 @@ http://103.151.60.162:2121/play/a013/index.m3u8
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 #EXTINF:-1 group-title="BNAGLA" tvg-logo="https://cdn.ekattorbd.com/contents/themes/public/style/images/logo-footer.png",Ekattor Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/04/Channel1Bangladesh-1.png?x95285", Channel One
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
