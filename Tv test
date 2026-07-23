@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="" tvg-logo="", Airtel 
-http://10.30.30.30:8088/SONY.AAT/index.m3u8
+http://10.30.30.30:8088/SONY.AAT/tracks-v1a1/mono.m3u8?token=71ab6763f92c5c7237766e20c7a3d845ae6c78a5-fd89795fc21ff132817b74b64b5033f7-1784805617-1784794817
